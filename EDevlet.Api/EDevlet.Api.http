@@ -1,0 +1,6 @@
+@EDevlet.Api_HostAddress = http://localhost:5171
+
+GET {{EDevlet.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+@EDevlet.Cretaor_HostAddress = http://localhost:5008
+
+GET {{EDevlet.Cretaor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

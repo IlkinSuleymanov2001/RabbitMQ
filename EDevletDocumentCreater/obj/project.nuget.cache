@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DSCAqK5iHRuJjsJoQN+m7DW/CsMMS0tnDarDmXI61/mmQjLsX+VuTeXgQ/CmR0p19HEL42+/s9Vs8Tr+YrSzzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ilkin\\source\\repos\\ilkin\\EDevletDocumentGenerator\\EDevletDocumentCreater\\EDevletDocument.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilkin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\ilkin\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\ilkin\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\ilkin\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
